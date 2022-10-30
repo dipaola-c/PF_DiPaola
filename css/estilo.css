@@ -287,12 +287,13 @@ h3, p {
       font-family: "Kaushan_Script";
       src: url("/PF_DiPaola/css/Kaushan_Script/KaushanScript-Regular.ttf"); }
   main .presentacion {
-    padding: 70px;
+    padding: 30px;
     margin: 10px; }
     main .presentacion p {
       text-align: center;
       font-size: 20px;
-      padding: 30px; }
+      padding: 0px;
+      margin: 0px; }
   aside {
     box-sizing: content-box;
     margin: 10px;
