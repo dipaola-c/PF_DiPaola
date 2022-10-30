@@ -98,14 +98,14 @@ body .fondo {
     body .fondo .header nav.navbar.navbar-expand-lg.navbar-light {
       background-color: rgba(207, 169, 125, 0.705);
       font-family: "Kaushan_Script";
-      src: url("/css/Kaushan_Script/KaushanScript-Regular.ttf"); }
+      src: url("/PF_DiPaola/css/Kaushan_Script/KaushanScript-Regular.ttf"); }
 
 body .header {
   grid-area: header; }
   body .header nav.navbar.navbar-expand-lg.navbar-light {
     background-color: rgba(207, 169, 125, 0.705);
     font-family: "Kaushan_Script";
-    src: url("/css/Kaushan_Script/KaushanScript-Regular.ttf"); }
+    src: url("/PF_DiPaola/css/Kaushan_Script/KaushanScript-Regular.ttf"); }
 
 body main .presentacion {
   padding: 70px;
@@ -116,7 +116,7 @@ body main .presentacion {
     padding: 20px;
     margin: 30px;
     font-family: "Kaushan_Script";
-    src: url("/css/Kaushan_Script/KaushanScript-Regular.ttf"); }
+    src: url("/PF_DiPaola/css/Kaushan_Script/KaushanScript-Regular.ttf"); }
 
 body main .fondoMain {
   width: auto;
@@ -276,7 +276,7 @@ h3, p {
 /*tipografía*/
 @font-face {
   font-family: "Kaushan_Script";
-  src: url("/css/Kaushan_Script/KaushanScript-Regular.ttf"); }
+  src: url("/PF_DiPaola/css/Kaushan_Script/KaushanScript-Regular.ttf"); }
 
 /*vista mobile*/
 @media only screen and (min-width: 0px) and (max-width: 767px) {
@@ -285,7 +285,7 @@ h3, p {
     .header nav.navbar.navbar-expand-lg.navbar-light {
       background-color: rgba(207, 169, 125, 0.705);
       font-family: "Kaushan_Script";
-      src: url("/css/Kaushan_Script/KaushanScript-Regular.ttf"); }
+      src: url("/PF_DiPaola/css/Kaushan_Script/KaushanScript-Regular.ttf"); }
   main .presentacion {
     padding: 70px;
     margin: 10px; }
