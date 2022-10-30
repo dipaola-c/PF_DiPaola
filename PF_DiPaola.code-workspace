@@ -2,6 +2,12 @@
     "folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../PF_Di_Paola"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PF_DiPaola"
+	}
 }
